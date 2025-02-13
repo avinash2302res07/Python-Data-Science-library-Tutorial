@@ -12,7 +12,7 @@ To read this library, you'll need the following Python packages:
 * seaborn
 * scikit-learn
 * pytorch
-* 
+
 You can install these packages using pip:
 
  pip install numpy pandas matplotlib seaborn scikit-learn torch
