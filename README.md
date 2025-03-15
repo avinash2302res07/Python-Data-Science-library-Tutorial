@@ -1,5 +1,5 @@
 # Python-Data-Science-library
-Welcome to the Python Data Science Library! This repository contains tutorials on essential Python libraries for data science, including numpy, pandas, matplotlib, seaborn, scikit-learn, and pytorch etc. The Detail notes and example help to learn :
+Welcome to the Python Data Science Library! This repository contains tutorials on essential Python and its libraries for data science, including numpy, pandas, matplotlib, seaborn, scikit-learn, and pytorch etc. The Detail notes and example help to learn :
 * Data Manipulation: Tools for cleaning and transforming data.
 * Statistical Analysis: Functions for statistical tests and analyses.
 * Visualization: Plotting and visualization tools.
